@@ -1,0 +1,13 @@
+tipo:Tipo 3:20:500.0
+tipo:Tipo 2:15:500.0
+tipo:Tipo 1:10:500.0
+tipo:Tipo 4:25:500.0
+surtidor:Empleado 3:Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+surtidor:Empleado 2:Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+surtidor:Empleado 1:Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+surtidor:Empleado 5:Tipo 3:0.0:Tipo 2:0.0:Tipo 1:0.0:Tipo 4:0.0
+empleado:Empleado 5:0
+empleado:Empleado 3:0
+empleado:Empleado 4:0
+empleado:Empleado 1:0
+empleado:Empleado 2:0
